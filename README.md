@@ -1,6 +1,6 @@
 # app-ads
 
-The [app-ads.txt](https://iabtechlab.com/ads-txt/) file for Thov Runeworks LLC's apps, served by GitHub Pages at <https://pythov.github.io/app-ads/app-ads.txt>.
+The [app-ads.txt](https://iabtechlab.com/ads-txt/) file for Thov Runeworks LLC's apps, served by GitHub Pages at <https://thov-runeworks-llc.github.io/app-ads/app-ads.txt>.
 
 `https://thov-runeworks.com/app-ads.txt` redirects here (a Squarespace URL mapping, 301), the one redirect off the root domain that the app-ads.txt spec allows. Ad networks read it to confirm which sellers may sell ads in apps whose store listing names thov-runeworks.com as the developer website.
 
